@@ -1,10 +1,10 @@
 # habit-tacker-master
 
 Technologies Used:
-    1.NodeJS
-    2.Express
-    3.EJS
-    4.MongoDB
+1.NodeJS
+2.Express
+3.EJS
+4.MongoDB
 
 
 Prerequisites:
