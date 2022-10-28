@@ -2,15 +2,22 @@
 
 Technologies Used:
 1.NodeJS
+
 2.Express
+
 3.EJS
+
 4.MongoDB
 
 
 Prerequisites:
+
     1.MongoDB
+    
     2.Git
+    
     3.NodeJS
+    
     4.CLI
 
 FEATURES :
