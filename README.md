@@ -23,33 +23,20 @@ FEATURES :
 7. Multuple user can use the same apk at once.
 
 
-To make it simpler the structure is like :
+LANDING PAGE:
+![image](https://user-images.githubusercontent.com/114986701/198535115-011a1a29-8442-437e-987a-08dd89d9fbcf.png)
 
-habit-tracker
-├── assets
-│  ├── calendar.svg
-│  └── css
-│  └── styles.css
-│  └── bootstrap.min.css
-├── config
-│  └── keys.js
-├── models
-│  ├── Habit.js
-│  └── User.js
-├── node_modules
-├── routes
-│  ├── index.js
-│  └── users.js
-├── views
-│  └── partials
-│  └── messages.ejs
-│  ├── dashboard.ejs
-│  ├── layout.ejs
-│  ├── login.ejs
-│  ├── register.ejs
-│  └── welcome.ejs
-├── .gitignore
-├── app.js
-├── package.json
-├── package-lock.json
-└── README.md 
+
+
+HOME PAGE :
+![image](https://user-images.githubusercontent.com/114986701/198535649-881b80eb-25c1-4bc7-b37a-609ebf0deca5.png)
+
+
+
+DAILY VIEW :
+![image](https://user-images.githubusercontent.com/114986701/198535445-87e426ec-668f-4b61-9bda-4b5f0bfc8fef.png)
+
+
+
+WEEKLY VIEW :
+![image](https://user-images.githubusercontent.com/114986701/198535821-cd6734a4-4626-4da9-b9e6-3349e6ef557f.png)
